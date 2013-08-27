@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>FluentMigrator.Dictionary</id>
+    <version>0.1</version>
+    <authors>rabitarochan</authors>
+    <owners>rabitarochan</owners>
+    <licenseUrl>https://github.com/rabitarochan/FluentMigrator.Dictionary/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/rabitarochan/FluentMigrator.Dictionary</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Management column for FluentMigrator</description>
+    <copyright>Copyright 2013</copyright>
+    <dependencies>
+      <dependency id="FluentMigrator" version="1.1.1.0" />
+    </dependencies>
+  </metadata>
+  
+  <files>
+    <file src="lib\FluentMigrator.Dictionary.dll" target="lib\net40" />
+    <file src="lib\FluentMigrator.Dictionary.pdb" target="lib\net40" />
+  </files>
+</package>
